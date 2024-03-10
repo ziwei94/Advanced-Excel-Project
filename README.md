@@ -1,2 +1,2 @@
 # Advanced-Excel-Project
-Utilizing Power Query and Power Pivot(Following MOOC assignments)
+Following the MOOC from Macquarie University (Including original course documents and assignments I did)
